@@ -1,3 +1,6 @@
+[Documentacion](https://ivansantander.com/blog/index.php/2021/07/27/angular-practicas-basicas/)
+==========
+
 **1-Crear proyecto**
 ==========
 Primero crear un proyecto de angular mediante consola sin implementar rutas para realizarlo manualmente y con CSS
