@@ -1,0 +1,5 @@
+<h1>Posts</h1>
+<app-post 
+  *ngFor="let mensaje of mensajes | async" 
+  [mensaje]='mensaje'
+  (clickPost)="listen($event)"></app-post>
