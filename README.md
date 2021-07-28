@@ -249,4 +249,4 @@ archivo post.component.ts
 (clickPost)="listen($event)
 
 archivo posts.component.html
-Luego de esto realizare una practica de ionic con una api de jsonEncode y una practica de angular con rick and morty api
+Luego de esto realizare una practica de ionic con una api de jsonEncode y una practica de angular con rick and morty api 
