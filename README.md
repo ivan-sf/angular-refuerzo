@@ -1,4 +1,5 @@
 **1-Crear proyecto**
+==========
 Primero crear un proyecto de angular mediante consola sin implementar rutas para realizarlo manualmente y con CSS
 
 ng new app-angular
